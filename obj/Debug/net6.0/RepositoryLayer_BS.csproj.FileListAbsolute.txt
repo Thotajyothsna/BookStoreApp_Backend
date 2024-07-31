@@ -1,0 +1,16 @@
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\bin\Debug\net6.0\RepositoryLayer_BS.deps.json
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\bin\Debug\net6.0\RepositoryLayer_BS.dll
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\bin\Debug\net6.0\RepositoryLayer_BS.pdb
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\bin\Debug\net6.0\ModelLayer_BS.dll
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\bin\Debug\net6.0\ModelLayer_BS.pdb
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.csproj.AssemblyReference.cache
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.AssemblyInfoInputs.cache
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.AssemblyInfo.cs
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.csproj.CoreCompileInputs.cache
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.sourcelink.json
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\Reposito.651125AC.Up2Date
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.dll
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\refint\RepositoryLayer_BS.dll
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\RepositoryLayer_BS.pdb
+C:\Users\oooyeeeee\source\repos\RepositoryLayer_BS\obj\Debug\net6.0\ref\RepositoryLayer_BS.dll
